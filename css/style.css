@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+/* font-family: "Playfair Display", serif;  */
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap');
+/* font-family: "Plus Jakarta Sans", sans-serif;  */
+
+@import url(sections/header.css);
+
+:root{
+    --playfair-txt:"Playfair Display", serif;
+    --plus-txt:"Plus Jakarta Sans", sans-serif;
+    /* --name:#b1454a;  */
+    --primary-color:#b1454a;
+    --secordy-color:#121212;
+
+    --black-200:#020202;
+    --black-300:#333333;
+    --black-400:#1f1e31;
+    --black-500:#555555;
+    --gray-100:#888888;
+
+    --color-white:#fff;
+    --color-creamson:#fff0de;
+}
+body{
+ background-color: blanchedalmond;
+}
