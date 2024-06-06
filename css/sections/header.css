@@ -8,9 +8,19 @@
     display: flex;
     position: relative; /*using overlay */
     padding: 20px;
+    
 }
 
-.header__ovelay{
+.header__logo-overlay{
     position: absolute;
     inset: 0;/*? i dont know*/
+    width: 100%;
+    background-color: var(--primary-color);  
+       
+}
+
+.header__logo h4{
+    padding-left: 30px;
+    color: #fff;
+    z-index: 1;
 }
