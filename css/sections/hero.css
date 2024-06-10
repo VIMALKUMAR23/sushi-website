@@ -21,7 +21,7 @@
 .hero-image__overlay{
     position: absolute;
     inset: 0;
-    width: 100%;
+    width: 98.04%;
     background-color: var(--primary-color);
     z-index: -1;
 
